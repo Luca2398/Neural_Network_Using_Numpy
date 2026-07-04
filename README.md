@@ -1,2 +1,2 @@
-# Neural_Network_Using_Numpy
-Neural network. (NN) in Python using only the Numpy Python libraries (no ML libraries such as Pytorch, Tensorflow, etc)
+# Neural Network Using Numpy
+Neural network (NN) in Python using only the Numpy Python library. (no ML libraries such as Pytorch, Tensorflow, etc)
